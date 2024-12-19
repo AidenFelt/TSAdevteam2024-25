@@ -1,8 +1,8 @@
-#ALRIGHTYLITTLEPEEPS
+# ALRIGHTYLITTLEPEEPS
 
-##Stuff/GameDirectory
+## Stuff/GameDirectory
 
-###Game Mechanics:
+### Game Mechanics:
 
 Main:
 
