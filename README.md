@@ -1,4 +1,15 @@
-# TSAdevteam2024-25
-Oui
-eeee
-E
+#ALRIGHTYLITTLEPEEPS
+
+##Stuff/GameDirectory
+
+###Game Mechanics:
+
+Main:
+
+Map:
+
+Troop:
+
+Team:
+
+Assets(facoties annd such):
